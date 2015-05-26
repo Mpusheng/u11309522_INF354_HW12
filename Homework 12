@@ -1,1 +1,20 @@
-
+<html>
+<body bgcolor = "#1E90FF">
+<head></head>
+<ul> 
+<h1>GitHub</h1>
+<br>
+<h2>Number of memebers</h2>
+<?php $txt = "<b>"."Bohlale Mojapelo u13242432"."</b>" ; for($i=1;$i<=1;$i++)
+{ ?>
+<li>Member <?php echo $i." ".$txt; ?></li> 
+<?php } 
+?>
+<?php $txt1 = "<b>"."Mpusheng Phokwane u11309522"."</b>" ; for($i=2;$i<=2;$i++)
+{ ?>
+<li>Member <?php echo $i." ".$txt1; ?></li> 
+<?php } 
+?>
+</ul> 
+</body>
+</html>
